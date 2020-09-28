@@ -1,3 +1,3 @@
 # README
 
-Picture in Picture 
+Picture-in-Picture 
